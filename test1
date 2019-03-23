@@ -2,4 +2,8 @@ This is the text in file test 1
 File change in master
 This is a line I typed on my PC
 Another line added on my PC
+<<<<<<< HEAD
 Yes another line added on my PC
+=======
+Line added on server
+>>>>>>> 39bb9eb35179419f7476e2402fa87add9e6e46fc
